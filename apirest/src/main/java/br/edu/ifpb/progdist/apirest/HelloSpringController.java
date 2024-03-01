@@ -11,6 +11,6 @@ public class HelloSpringController {
 
     @GetMapping("/hello")
     public String getHello() {
-        return "Hello Ricardo França";
+        return "Olá";
     }
 }
